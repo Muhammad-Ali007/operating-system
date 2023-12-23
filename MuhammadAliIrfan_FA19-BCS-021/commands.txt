@@ -1,5 +1,0 @@
-fold -w 15 MuhammadAliIrfan.txt
-
-fold -s -w 15 MuhammadAliIrfan.txt
-
-i want you to provide me the program in c language to execute the following command in linux "fold -w 15 MuhammadAliIrfan.txt"
